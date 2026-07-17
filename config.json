@@ -1,0 +1,28 @@
+{
+  "telegram": {
+    "api_id": 35591806,
+    "api_hash": "fd2553d7ddf440a39b37e687695bd942",
+    "phone": "966546631961"
+  },
+  "bot": {
+    "username": "PS4_library_bot",
+    "activation_password": "rome"
+  },
+  "scraping": {
+    "first_id": 1,
+    "last_id": 3912,
+    "retry_attempts": 3,
+    "retry_delay_base": 2,
+    "message_wait_timeout": 30
+  },
+  "folders": {
+    "data_dir": "data",
+    "torrents_dir": "data/torrents",
+    "covers_dir": "data/covers",
+    "logs_dir": "logs"
+  },
+  "server": {
+    "host": "127.0.0.1",
+    "port": 8080
+  }
+}
