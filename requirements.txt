@@ -1,4 +1,4 @@
-telethon==1.35.3
-aiohttp==3.9.1
-python-dotenv==1.0.0
-Pillow==10.1.0
+telethon
+aiohttp
+python-dotenv
+Pillow
